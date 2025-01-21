@@ -200,6 +200,7 @@ a {
 }
 .project-img {
     width: 500px;
+    height: 350px;
     transition: opacity 0.3s;
 }
 .project:hover .project-img {
