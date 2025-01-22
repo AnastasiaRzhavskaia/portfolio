@@ -199,8 +199,8 @@ a {
     color: #ED6F2D;
 }
 .project-img {
-    width: 500px;
-    height: 350px;
+    width: 450px;
+    height: auto;
     transition: opacity 0.3s;
 }
 .project:hover .project-img {
@@ -313,7 +313,8 @@ a {
         margin: 0;
     }
     .project-img {
-        width: 330px;
+        width: 100%;
+        height: auto;
     }
     .project {
         margin: 0.5rem;
